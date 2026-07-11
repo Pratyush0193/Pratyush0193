@@ -1,0 +1,123 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Hi%20there%20I%27m%20Pratyush%20Das%20%F0%9F%91%8B&fontSize=38&fontColor=0b1120&animation=twinkling&fontAlignY=35" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Cybersecurity+Enthusiast;AWS+Cloud+Learner;Securing+Systems%2C+One+Layer+at+a+Time;Currently+Exploring+Cloud+Security+%26+DevSecOps" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Pratyush0193&color=7dd3fc&style=flat-square&label=Profile+Views)](https://github.com/Pratyush0193)
+[![GitHub Followers](https://img.shields.io/github/followers/Pratyush0193?label=Followers&style=flat-square&color=7dd3fc&logo=github&logoColor=white)](https://github.com/Pratyush0193?tab=followers)
+
+</div>
+
+---
+
+### 🧑‍💻 Who I Am
+
+```typescript
+const pratyush = {
+  title: "MCA Student | Cybersecurity Enthusiast | AWS Cloud Learner",
+  stack: {
+    languages: ["Python", "Java", "C++", "C", "SQL", "PHP"],
+    frontend: ["HTML", "CSS", "JavaScript"],
+    cloud: ["AWS — IAM, EC2, S3, VPC, CloudTrail, CloudWatch, GuardDuty, Security Hub"],
+    security: ["Linux", "Networking", "Wireshark", "OSINT", "SIEM", "Vulnerability Assessment"],
+    databases: ["MySQL"],
+    tools: ["Git", "GitHub", "VS Code", "VMware", "Kali Linux"],
+  },
+  launchedProjects: ["Employee-Manager Management System (Django)"],
+  certifications: [],
+  status: "🔭 Currently learning Cloud Security, DevSecOps & AI",
+  openTo: ["Cybersecurity & cloud security projects", "Open-source collaboration"],
+};
+```
+
+---
+
+### 🚀 Featured Project
+
+A project that reflects my full-stack + backend fundamentals:
+
+#### 🧑‍💼 Employee-Manager Management System
+
+A Django-based web application structured around dedicated **employee** and **manager** modules, backed by SQLite for data persistence.
+
+<div align="center">
+
+[![Employee-Manager Project](https://github-readme-stats.vercel.app/api/pin/?username=Pratyush0193&repo=project&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/Pratyush0193/project)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Backend | Django (Python) |
+| Database | SQLite |
+| Frontend | Django Templates (HTML) |
+
+🔗 [**View Code**](https://github.com/Pratyush0193/project)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=py,java,cpp,c,php&theme=dark)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark)
+
+**Cloud**
+
+![Cloud](https://skillicons.dev/icons?i=aws&theme=dark)
+
+`IAM` `EC2` `S3` `VPC` `CloudTrail` `CloudWatch` `GuardDuty` `Security Hub`
+
+**Cybersecurity & OS**
+
+![Security](https://skillicons.dev/icons?i=linux,kali&theme=dark)
+
+`Networking` `Wireshark` `OSINT` `SIEM` `Vulnerability Assessment`
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)
+
+**Dev Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+
+`VMware`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pratyush0193&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush0193&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&bg_color=0d1117" width="49%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Pratyush0193&theme=nord&background=0d1117&border=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pratyush0193&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=2" width="80%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyush0193&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b1120)](https://www.linkedin.com/in/pratyush-das-a3790a2a7)
+[![GitHub](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0b1120)](https://github.com/Pratyush0193)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1120)](mailto:Pratyushdas264@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&reversal=true" width="100%"/>
+
+
